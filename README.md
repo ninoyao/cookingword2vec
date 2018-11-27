@@ -1,5 +1,6 @@
 ## cookingword2vec
 
+
 When I trying to find somedata set in Kaggle and practice some data science skill I found an interesting dataset. 
 https://www.kaggle.com/c/whats-cooking
 the competition asked people to predict the category of a dish's cuisine given a list of its ingredients. However, after making a logistic model, I think it would be more interesting to make a word2vec model. 
